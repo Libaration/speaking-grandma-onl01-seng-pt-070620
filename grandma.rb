@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(phrase)
-    if phrase = phrae.uppercase
+    if phrase = phrase.uppercase
       then
       puts "NO, NOT SINCE 1938!"
 end
